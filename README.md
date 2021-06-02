@@ -24,3 +24,5 @@ https://github.com/google-developer-training/android-kotlin-fundamentals-apps/tr
 
 ### Изображение приложения:
 
+![Screenshot_1622604142](https://user-images.githubusercontent.com/77355204/120420166-7dd61b00-c36c-11eb-9374-48339618393f.png)
+![Screenshot_1622604157](https://user-images.githubusercontent.com/77355204/120420167-7e6eb180-c36c-11eb-8a49-bc6abd8dedf7.png)
